@@ -1,6 +1,7 @@
 arduino-uno-lcd
 ===============
 ### Notes
+- **the pin setting in this code is for the use of my custom LCD shield**
 - 10k potentiometer is required because the LCD always reset the contrast setting
 
 ### Content
